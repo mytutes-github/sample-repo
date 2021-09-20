@@ -1,0 +1,4 @@
+alias.s=status
+alias.lo=log --oneline
+alias.cc=checkout
+alias.lgg=log --all --decorate --oneline --graph
